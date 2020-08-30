@@ -24,9 +24,12 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [   
+            
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"]
           },
           "configurations": {
             "production": {
@@ -119,6 +122,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Goaubled2"
+    }
+  },
+  "defaultProject": "Goaubled2",
+  "cli": {
+    "analytics": "d8402ba3-7087-4fb0-90bb-85a76178f13b"
+  }
 }

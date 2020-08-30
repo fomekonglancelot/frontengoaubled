@@ -1,0 +1,53 @@
+#bg-inscription{
+         
+    border-radius: 20rem;
+    background-color: rgb(229, 240, 251);
+   
+
+   }
+
+   #bg-connexion{
+
+     border-radius: 20rem;
+    background-color:#0069D8;
+
+   }
+
+
+    .logo1{
+        color:#0c2e8a;
+        font-family: 'Montserrat', sans-serif;
+
+
+    }
+
+    .logo2{
+        color:#8bc73d;
+    }
+
+  
+
+    .fas{
+     color:#0c2e8a;
+
+    }
+
+
+
+.navbar  .navbar-collapse .row #bg-inscription .nav-link{
+ color:#8bc73d;
+ }
+
+ #bg-inscription:hover{
+   opacity: 0.9; 
+
+   
+   }
+
+   @media (max-width: 767px) {
+     #bg-connexion{
+       margin-top: 7px;
+     }
+ }
+
+

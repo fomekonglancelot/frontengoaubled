@@ -1,0 +1,66 @@
+@import url("/Users/fomekong/Documents/Goaubled2/src/app/bodyHome/annonce/annonce.component.css");
+h1{
+    color: #fff;
+    font-size: 50px;
+    line-height: 95px;
+    font-weight: 400;
+    padding-top: 75px;
+}
+
+.triangle{
+    width: 0;
+      height: 0;
+      border-bottom: 20px solid #8bc73d;
+      border-right: 250px solid transparent;
+}
+
+.triangle-m{
+    width: 0;
+    height: 0;
+    border-bottom: 20px solid#8bc73d;
+    border-left: 250px solid transparent;
+}
+
+.bor-menu{
+
+    width: 250px;
+    height: 150px;
+    background:#8bc73d;
+    box-sizing: border-box;
+
+}
+
+/* positione de la nav du commentaire */
+.d-flex.flex-row.justify-content-center {
+    top: 470px;
+    position: absolute;
+    right: 400px;
+    left: 400px;
+}
+/* triangel bas */
+.triangle-b{
+    width: 0;
+      height: 0;
+      border-top: 20px solid #8bc73d;
+      border-right: 250px solid transparent;
+}
+
+.triangle-m-b{
+    width: 0;
+    height: 0;
+    border-top: 20px solid#8bc73d;
+    border-left: 250px solid transparent;
+}
+/* rectangle du milieu */
+.rectancle{
+    
+        height: 20px;
+    
+}
+
+
+
+
+
+
+
